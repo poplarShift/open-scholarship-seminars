@@ -3,7 +3,7 @@ A seminar series held at Université Laval, winter 2019
 
 _this repository is under construction..._
 
-![Rainbow of open science practices](img/rainbow-of-open-science-practices.pdf)
+![Rainbow of open science practices](img/rainbow-of-open-science-practices.png)
 
 ## Seminars so far
 
