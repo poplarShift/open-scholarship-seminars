@@ -1,9 +1,15 @@
 # Open Scholarship in a connected world
-A seminar series held at Université Laval, winter 2019
+A seminar series held at Université Laval, Québec, winter 2019. Pavillon photonique-optique, COP-2165, 12h00-13h00 on Wednesdays.
 
 _this repository is under construction..._
 
 ![Rainbow of open science practices](img/rainbow-of-open-science-practices.png)
+
+## Coming up
+
+- 2019-03-13, Pierre Legagneux & Achim Randelhoff: La "publication responsable"
+
+- 2019-04-10, Timothée Poisot (UMontréal, [(site web ici)](https://poisotlab.io)): La science ouverte, est-ce vraiment ouvert à tout le monde?
 
 ## Seminars so far
 
