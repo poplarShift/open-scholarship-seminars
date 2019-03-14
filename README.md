@@ -5,13 +5,13 @@ _this repository is under construction..._
 
 ## Coming up
 
-- 2019-03-13, Pierre Legagneux & Achim Randelhoff: La "publication responsable"
-
 - 2019-04-10, Timothée Poisot (UMontréal, [(site web ici)](https://poisotlab.io)): La science ouverte, est-ce vraiment ouvert à tout le monde?
 
 ![Rainbow of open science practices](img/rainbow-of-open-science-practices.png)
 
 ## Seminars so far
+
+- 2019-03-13, Pierre Legagneux & Achim Randelhoff: La "publication responsable"
 
 - 2019-02-27, Eve Richard & André Desrochers: Qu’est-ce que l’impact?
 
