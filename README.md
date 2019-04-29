@@ -5,11 +5,15 @@ _this repository is under construction..._
 
 ## Coming up
 
-- 2019-04-10, Timothée Poisot (UMontréal, [(site web ici)](https://poisotlab.io)): La science ouverte, est-ce vraiment ouvert à tout le monde?
+- 2019-05-28, Dominique Lapierre: La propriété des données de la recherche
+
+  Savez-vous qui détient les droits d'auteur sur les données produites dans le cadre d'une recherche effectuée à l'Université Laval? Est-ce différent si la recherche est effectuée en partenariat? La présentation se veut une introduction réflexive au droit d'auteur des données de recherche dans le contexte universitaire.
 
 ![Rainbow of open science practices](img/rainbow-of-open-science-practices.png)
 
 ## Seminars so far
+
+- 2019-04-10, Timothée Poisot (UMontréal, [(site web ici)](https://poisotlab.io)): La science ouverte, est-ce vraiment ouvert à tout le monde?
 
 - 2019-03-13, Pierre Legagneux & Achim Randelhoff: La "publication responsable"
 
