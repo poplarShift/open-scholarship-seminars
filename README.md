@@ -5,6 +5,10 @@ _this repository is under construction..._
 
 ## Coming up
 
+- 2019-05-15, Maude Laplante-Dubé: État de la situation et moyens mis en place à l’Université Laval
+
+  Le mouvement du libre accès a aujourd’hui près de 20 ans. Ce séminaire sera l’occasion d’en dresser l’historique, de souligner certains défis qu’il rencontre et de présenter les outils et services mis en place à l’Université Laval afin d’accompagner les chercheurs qui souhaitent y participer.
+
 - 2019-05-28, Dominique Lapierre: La propriété des données de la recherche
 
   Savez-vous qui détient les droits d'auteur sur les données produites dans le cadre d'une recherche effectuée à l'Université Laval? Est-ce différent si la recherche est effectuée en partenariat? La présentation se veut une introduction réflexive au droit d'auteur des données de recherche dans le contexte universitaire.
